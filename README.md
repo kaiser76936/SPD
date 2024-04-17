@@ -1,3 +1,5 @@
+[![Python application test via GitHub Actions](https://github.com/kaiser76936/SPD/actions/workflows/main.yml/badge.svg)](https://github.com/kaiser76936/SPD/actions/workflows/main.yml)
+
 # SPD
 Para o trabalho 2
 
