@@ -1,3 +1,10 @@
 pylint
 pytest
 pytest-cov
+flask
+MarkupSafe
+Jinja2
+itsdangerous
+Werkzeug
+click
+flask
